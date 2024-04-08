@@ -1,0 +1,14 @@
+Planner aktivit:
+
+Tato aplikacia bude sluzit na planovanie si aktivit a pripomienkovanie nadchadzajucich aktivit cez mobilne notifikacie. Bude obsahovat tri profily do z ktorych kazdy bude mat jedinecne moznosti profily su praca/skola,
+a zdravie. Bude mozne vyplnat naladu pre dany den kolko vody clovek vypil za predchadzajuci. Merat pocet krokov v dany den a podobne. Pri vyplnani novej aktivity bude mozne vyplnit kedy to bude, kedy ma byt pripomenuta, ci sa ma opakovat do buducna, kratky popis, farba v akej sa ma zobrazovat v kalendari aplikacie, cas v ktory sa ma konat. Pri zdravi bude pre kazdy den informacia o pocte krokov, pocet litrov vypitych v den, nalada, cvicenie ci osoba vykonala nejaky trening.
+
+
+Podobne aplikacie:
+https://play.google.com/store/apps/details?id=todolist.scheduleplanner.dailyplanner.todo.reminders
+https://play.google.com/store/apps/details?id=io.unorderly.structured
+https://play.google.com/store/apps/details?id=com.appxy.planner
+
+poznamka:
+obrazky su hruby nacrt zakladnych aktivit ako prezeranie aktivit a vytvorenie novej aktivity
+
